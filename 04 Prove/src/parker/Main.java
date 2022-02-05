@@ -7,5 +7,7 @@ public class Main {
         String jacobName ="Jacob";
         System.out.printf("Hello, my name is %s.%n", jacobName);
 	// write your code here
+        String luciaName ="Lucia";
+        System.out.printf("Hello, my name is %s.%n", luciaName);
     }
 }
